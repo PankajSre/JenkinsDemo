@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+/JenkinsDemo/target
 # Log file
 *.log
 
